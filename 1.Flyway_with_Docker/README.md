@@ -7,7 +7,7 @@
 docker-compose -f 1.Flyway_with_Docker/docker-compose.yml up -d
 ```
 
-Посмотреть список запушенных контейнеров:
+Посмотреть список запущенных контейнеров:
 
 ```bash
 docker ps 
